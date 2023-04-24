@@ -1,0 +1,6 @@
+valid_email = 'naokinaokitests@gmail.com'
+invalid_email = 'naokinaokitest@gmail.com'
+valid_password = 'Naoki6969'
+invalid_password = 'Naoki6968'
+valid_name = 'Наоки'
+valid_surname = 'Наокич'
